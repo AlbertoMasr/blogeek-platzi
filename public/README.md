@@ -1,5 +1,9 @@
-# Blogeek Videos
-Proyecto de referencia para el curso en Platzi de Firebase para la Web. 
-- Recuerda crear un directorio config y dentro un archivo javascript con nombre ConfigFirebase el cual contiene las credenciales y demas info para usar firebase.
+# Curso de Fierabse 5 para web
 
-@jggomezt
+Curso de platzi donde se realiza un ejemplo de una página donde la comunidad puede logearse, y realizar post, todo esto utilizando los servicios que ofrece firebase como:
+
+    - Firestore
+    - Storage
+    - Hosting
+
+https://platzi.com/cursos/firebase-web/
